@@ -9,5 +9,6 @@ public class Exemplo2SpringBootTurmaBApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Exemplo2SpringBootTurmaBApplication.class, args);
 	}
+	
 
 }
